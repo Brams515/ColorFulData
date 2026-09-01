@@ -1,0 +1,24 @@
+# --- Python Basics ---
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+
+# --- IDE Settings ---
+.vscode/
+*.code-workspace
+
+# --- Virtual Environment ---
+.venv/
+
+# --- Build & PyInstaller ---
+build/
+dist/
+*.spec
+
+# --- ColorFulData Specific ---
+*.CFD
+
+# --- OS Specific ---
+.DS_Store
