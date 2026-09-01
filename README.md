@@ -27,15 +27,15 @@ If you prefer a more graphical experience, without the need for coding or intera
 
 ### Download Executable
 **===WORK IN PROGRESS===**
-[![Windows](./Images/Icons/GitHub/download.png)](https://example.com) [Download for Windows](https://example.com)
-[![Linux](./Images/Icons/GitHub/download-linux.png)](https://example.com) [Download for Linux](https://example.com)
-[![Mac](./Images/Icons/GitHub/download-mac-os.png)](https://example.com) [Download for Mac](https://example.com)
+* [![Windows](./Images/Icons/GitHub/download.png)](https://example.com) [Download for Windows](https://example.com)
+* [![Linux](./Images/Icons/GitHub/download-linux.png)](https://example.com) [Download for Linux](https://example.com)
+* [![Mac](./Images/Icons/GitHub/download-mac-os.png)](https://example.com) [Download for Mac](https://example.com)
 ___
 ## For Contributors/Developers
-For active contributors/developers, or people interested in joining the project, relevant information can be found in the [[CONTRIBUTING]] page.
+For active contributors/developers, or people interested in joining the project, relevant information can be found in the [CONTRIBUTING](./CONTRIBUTING.md) page.
 
 ## AI Disclosure
-The use of generative AI and its scope can be found at: [[AI_DISCLOSURE]]
+The use of generative AI and its scope can be found at: [AI_DISCLOSURE](./AI_DISCLOSURE.md)
 
 ## Attributions
 
