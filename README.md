@@ -24,6 +24,36 @@ If you are comfortable with coding and using the terminal, then proceed by downl
 If you prefer a more graphical experience, without the need for coding or interacting with the terminal, no worries we got you covered! In this case, you can select the download for the executable of the application for your OS of choice: [Download Executable](#download-executable)
 ### Download Repository
 
+Installation steps from downloaded repository:
+**Manual**
+1. Extract the compressed folder in your desired location
+2. Open the extracted folder
+(OPTIONAL): you can open the folder using Visual Studio Code
+3. Create a virtual environment (either via terminal or VScode)
+```bash
+python3 -m venv .venv
+```
+4. Activate your virtual environment
+```bash
+source .venv/bin/activate
+```
+5. Install the dependencies
+```bash
+pip install -r requirements.txt
+```
+6. Run the application
+```bash
+python main.py
+```
+**Terminal script (download from source)**
+```bash
+git clone https://github.com/BramS515/ColorFulData
+cd ColorFulData
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+Once installed, similar to the other method use `python main.py` to run the script.
 
 ### Download Executable
 **===WORK IN PROGRESS===**
