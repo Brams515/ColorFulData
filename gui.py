@@ -294,10 +294,10 @@ class CFDGur(QMainWindow):
         self.view.fitInView(self.scene.itemsBoundingRect(), Qt.AspectRatioMode.KeepAspectRatio)
 
     def update_axes_button(self, count):
-        self.btn_set_axes.setText(f"3. Set Reference Points ({count}/3)")
+        self.btn_set_axes.setText(f"2. Set Reference Points ({count}/3)")
 
     def axes_completed(self, points):
-        self.btn_set_axes.setText("3. Set Reference Points (Done)")
+        self.btn_set_axes.setText("2. Set Reference Points (Done)")
         self.coord_group.setVisible(True) # Reveal the coordinate inputs
         
     def get_physical_coordinates(self):
